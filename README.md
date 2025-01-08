@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+ui: https://dribbble.com/shots/19858341-Finnancial-Mobile-IOS-App
+learn: https://nomadcoders.co/flutter-for-beginners/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
